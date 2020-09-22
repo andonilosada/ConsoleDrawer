@@ -1,0 +1,13 @@
+C:\ConsoleDrawer\bin\Debug\netcoreapp3.1\ConsoleDrawer.exe
+C:\ConsoleDrawer\bin\Debug\netcoreapp3.1\ConsoleDrawer.deps.json
+C:\ConsoleDrawer\bin\Debug\netcoreapp3.1\ConsoleDrawer.runtimeconfig.json
+C:\ConsoleDrawer\bin\Debug\netcoreapp3.1\ConsoleDrawer.runtimeconfig.dev.json
+C:\ConsoleDrawer\bin\Debug\netcoreapp3.1\ConsoleDrawer.dll
+C:\ConsoleDrawer\bin\Debug\netcoreapp3.1\ConsoleDrawer.pdb
+C:\ConsoleDrawer\obj\Debug\netcoreapp3.1\ConsoleDrawer.csprojAssemblyReference.cache
+C:\ConsoleDrawer\obj\Debug\netcoreapp3.1\ConsoleDrawer.AssemblyInfoInputs.cache
+C:\ConsoleDrawer\obj\Debug\netcoreapp3.1\ConsoleDrawer.AssemblyInfo.cs
+C:\ConsoleDrawer\obj\Debug\netcoreapp3.1\ConsoleDrawer.csproj.CoreCompileInputs.cache
+C:\ConsoleDrawer\obj\Debug\netcoreapp3.1\ConsoleDrawer.dll
+C:\ConsoleDrawer\obj\Debug\netcoreapp3.1\ConsoleDrawer.pdb
+C:\ConsoleDrawer\obj\Debug\netcoreapp3.1\ConsoleDrawer.genruntimeconfig.cache
