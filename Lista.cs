@@ -12,10 +12,12 @@ namespace ConsoleDrawer {
             Count = 0;
 
         }
-
+        public object GetAt(int idx){
+            return  _items[idx];
+        }
         public void Add (object item) {
             if(Count == _items.Length) {
-                throw new System.InvalidOperationException();    
+                throw new InvalidOperationException("Lista llena");    
 
             }
             _items[Count] = item;

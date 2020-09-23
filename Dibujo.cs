@@ -1,23 +1,26 @@
-
+using System;
 
 namespace ConsoleDrawer {
 
     public class Dibujo {
 
-        private Figura[] _figuras;
+        private Lista _figuras;
         public Dibujo(){
 
-         _figuras = new Figura[10];
-         _figuras[0] = new Texto(10, 5, "Hola a todos");
+         _figuras = new Lista(10);
+         _figuras.Add(new Texto(10, 5, "Hola a todos"));
          
         }
 
         public void Dibujar() {
+            /*
+            foreach (var figura in _figuras) {
 
-            for (int i=0; i< _figuras.Length; i++) {
-
-                _figuras[i]?.Dibujar();
-               
+                figura?.Dibujar(); 
+            }
+            */
+            for(var idx = 0; idx < _figuras.Count; idx++){
+               ((Figura) _figuras.GetAt(idx)).Dibujar();
             }
         }
 
